@@ -1,1 +1,0 @@
-The Zomato Analysis Project aims to derive actionable insights from the restaurant data available on the Zomato platform. By leveraging exploratory data analysis (EDA) techniques, data visualization tools, and potentially machine learning models, this project seeks to understand the dining landscape across various cities, consumer preferences, and restaurant performance metrics.
